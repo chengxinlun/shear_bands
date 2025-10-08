@@ -10,7 +10,7 @@ Modeling shock-to-detonation phenomena in energetic materials (EM) requires capt
 
 #### Cite
 If you find this work useful, please cite:
-'''
+```
 @article{cheng2025physics,
     author = {Cheng, Xinlun and Chen, Bingzhe and Choi, Joseph and Nguyen, Yen T. and Seshadri, Pradeep and Verma, Mayank and Udaykumar, H. S. and Baek, Stephen},
     title = {A physics-aware deep learning model for shear band formation around collapsing pores in shocked reactive materials},
@@ -22,4 +22,4 @@ If you find this work useful, please cite:
     month = {10},
     doi = {10.1063/5.0294397},
 }
-'''
+```
